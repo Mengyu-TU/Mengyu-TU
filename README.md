@@ -1,9 +1,9 @@
 # Hi there, I'm Mengyu Tu!
 
-I'm a neuroscience PhD student at Johns Hopkins University, passionate about data science and machine learning. Here's a bit about me:
+I'm a Neuroscience PhD and Artificial Intelligence MSc student at Johns Hopkins University. Here's a bit about me:
 
 - 👀 I have a keen interest in science and history.
-- 🌱 Currently, I'm diving deep into the fields of neuroscience and machine learning, exploring the exciting intersections between them.
+- 🌱 Currently, I'm diving deep into neuroscience and machine learning, exploring the exciting intersections between them.
 - 💼 I'm open to collaborating on data science and machine learning projects that drive innovation and solve real-world challenges.
 - 📫 Email: [serenemy@outlook.com](mailto:serenemy@outlook.com) 
 - 🌐 Website: [Serene's Website](https://mengyu-tu.github.io/mengyu_tu.github.io/)
