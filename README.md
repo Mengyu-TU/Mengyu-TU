@@ -1,4 +1,4 @@
-# Hi there, I'm Serene Tu!
+# Hi there, I'm Mengyu Serene Tu!
 
 I'm a Neuroscience PhD and Artificial Intelligence MSc student at Johns Hopkins University. Here's a bit about me:
 
