@@ -1,6 +1,6 @@
 # Hi there, I'm Mengyu Serene Tu!
 
-I'm a Neuroscience PhD and Artificial Intelligence MSc student at Johns Hopkins University. Here's a bit about me:
+I'm a Computational/Systems Neuroscience PhD and Artificial Intelligence MSc student at Johns Hopkins University. Here's a bit about me:
 
 - 👀 I have a keen interest in science and history.
 - 🌱 Currently, I'm diving deep into neuroscience and machine learning, exploring the exciting intersections between them.
